@@ -36,11 +36,6 @@ This project dives into **Atliq Hardware’s** sales and financial performance u
 
 ---
 
-## 🏗 Project Structure  
-
-
----
-
 ## 🎯 Why This Project Matters  
 
 Atliq Hardware, like many businesses, **thrives on data-driven decisions**. The insights from these reports help:  
